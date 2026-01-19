@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Edunext Skibidi1
-// @namespace    https://bio.anhwaivo.xyz
-// @version      1.5.1
+// @namespace    https://e-z.bio/anhwaivo
+// @version      1.5.2
 // @description  edunext skibidi
 // @author       Anhwaivo
 // @match        https://fsc-edunext.fpt.edu.vn/*
