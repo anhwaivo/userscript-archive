@@ -19,7 +19,7 @@
 (function() {
     'use strict';
     // youknow youknow
-    if (window.location.href !== "https://www.youtube.com/watch?v=dQw4w9WgXcQ") {
-        window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
-    }
+    // if (window.location.href !== "https://www.youtube.com/watch?v=dQw4w9WgXcQ") {
+    //     window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+    // }
 })();
